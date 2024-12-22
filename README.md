@@ -1,5 +1,7 @@
-# Final Capstone
+# TaskTrackr
 ​
-This directory contains all of the starter projects for the final capstone.
+This repository contains the starter project for TaskTrackr, a full-stack task management application. This project provides foundational code and instructions to get started with building and running the application.
 ​
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+## Getting Started
+
+Follow the included documentation to set up your development environment and start customizing TaskTrackr to suit your needs.
